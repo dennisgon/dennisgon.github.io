@@ -11,8 +11,8 @@
 	margin-top: 0px;
 	border: none;
 	height: 3px;
-	color: #000; 
-	background-color: #000; 
+	color: rgba(0,0,0,0.87); 
+	background-color: rgba(0,0,0,0.87); 
 
 }
 .social-media-introduction{
