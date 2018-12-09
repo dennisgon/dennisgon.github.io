@@ -1,0 +1,29 @@
+.social-media-icon{
+	display: inline-block;
+}
+.name-introduction{
+		margin-bottom: 0px;
+		margin-top: 0px;
+}
+.line-introduction{	
+	width: 30px;
+	margin: 5px;
+	margin-top: 0px;
+	border: none;
+	height: 3px;
+	color: #000; 
+	background-color: #000; 
+
+}
+.social-media-introduction{
+	height: 30px;
+	width: 30px;
+	border-radius: 75px;
+}
+.introduction{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
